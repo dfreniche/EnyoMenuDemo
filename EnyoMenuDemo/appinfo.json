@@ -1,0 +1,10 @@
+{
+	"id": "com.freniche.slidingpanetest",
+	"version": "1.0.0",
+	"vendor": "Freniche",
+	"type": "web",
+	"main": "index.html",
+	"title": "Menu Demo",
+	"icon": "icon.png",
+	"uiRevision": 2
+}

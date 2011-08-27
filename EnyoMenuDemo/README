@@ -1,0 +1,14 @@
+README.TXT:
+-----------
+
+Just a simple example of a fixed menu in the left and several views changing in the right, including views with SlidingPanels
+
+Took me a couple of days to figure this out, so I thought it would be helpful for other people trying to learn Enyo
+
+You can use this project as a template for your new Enyo App. It starts with five options and five views. Easy to expand!
+
+If you use it, drop me a line. Virtual hugs are always appreciated!
+
+Attribution:
+
+Image of the Spanish Castle: http://www.fotopedia.com/items/flickr-3008086330, Author R. Dur‡n: http://www.flickr.com/photos/45327189@N00

@@ -1,0 +1,9 @@
+enyo.depends(
+	 "opt1.js",
+	 "opt2.js",
+	 "opt3.js",
+	 "opt4.js",
+	 "opt5.js",
+     "MainMenu.js",
+     "MenuDemo.js"
+ ); 
